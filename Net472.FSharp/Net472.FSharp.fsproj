@@ -16,7 +16,6 @@
     <PackageReference Include="MathNet.Numerics.Data.Matlab" Version="4.0.0" />
     <PackageReference Include="MathNet.Numerics.Data.Text" Version="4.0.0" />
     <PackageReference Include="MathNet.Numerics.FSharp" Version="4.8.0-beta02" />
-    <PackageReference Include="MathNet.Numerics.MKL.Linux" Version="2.0.0" />
     <PackageReference Include="MathNet.Spatial" Version="0.5.0-beta05" />
     <PackageReference Include="MathNet.Symbolics" Version="0.20.0" />
   </ItemGroup>
