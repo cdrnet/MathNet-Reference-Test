@@ -6,7 +6,7 @@ namespace Net472.CSharp.StrongName
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(MathNet.Numerics.Control.Describe());
         }
     }
 }

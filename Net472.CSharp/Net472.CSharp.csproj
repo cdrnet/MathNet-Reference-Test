@@ -6,4 +6,15 @@
     <RootNamespace>MathNet_Reference_Test</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MathNet.Filtering" Version="0.6.0" />
+    <PackageReference Include="MathNet.Filtering.Kalman" Version="0.6.0" />
+    <PackageReference Include="MathNet.Numerics" Version="4.8.0-beta02" />
+    <PackageReference Include="MathNet.Numerics.Data.Matlab" Version="4.0.0" />
+    <PackageReference Include="MathNet.Numerics.Data.Text" Version="4.0.0" />
+    <PackageReference Include="MathNet.Numerics.MKL.Win" Version="2.3.0" />
+    <PackageReference Include="MathNet.Spatial" Version="0.5.0-beta05" />
+    <PackageReference Include="MathNet.Symbolics" Version="0.20.0" />
+  </ItemGroup>
+
 </Project>
