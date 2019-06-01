@@ -8,6 +8,7 @@
   <ItemGroup>
     <PackageReference Include="MathNet.Filtering.Kalman.Signed" Version="0.6.0" />
     <PackageReference Include="MathNet.Filtering.Signed" Version="0.6.0" />
+    <PackageReference Include="MathNet.Numerics.FSharp.Signed" Version="4.8.0-beta02" />
     <PackageReference Include="MathNet.Numerics.Signed" Version="4.8.0-beta02" />
     <PackageReference Include="MathNet.Spatial.Signed" Version="0.5.0-beta05" />
   </ItemGroup>
